@@ -59,7 +59,7 @@ Developed a custom shadow system using `rgba` values to create depth in a dark-t
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/samarkhayam/archtech/tree/main/portfolio.git
 
 ```
 
