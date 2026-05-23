@@ -29,9 +29,6 @@ A high-performance, responsive portfolio and project suite built during my **Sof
 * **Testimonials:** Endorsements from Senior AI Architects and Developers.
 
 
-* **Task 2: React Logic Suite**
-* **GitHub Finder / Task Manager:** Implementation of complex state management and API integration without relying on external tutorials.
-
 
 
 ---

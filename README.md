@@ -14,6 +14,8 @@ This repository contains the official documentation and source code for all task
 
 * **[Task 01](https://github.com/samarkhayam/archtech/tree/main/portfolio)** - Technical Implementation & UI Design
 
+* **[Task 02](https://github.com/samarkhayam/archtech/tree/main/todo-app)** - Technical Implementation & UI Design
+
 
 ---
 
