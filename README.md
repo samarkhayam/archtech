@@ -16,6 +16,10 @@ This repository contains the official documentation and source code for all task
 
 * **[Task 02](https://github.com/samarkhayam/archtech/tree/main/todo-app)** - Technical Implementation & UI Design
 
+* **[Task 03](https://github.com/samarkhayam/archtech/tree/main/music-player)** - Technical Implementation & UI Design
+
+* **[Task 04](https://github.com/samarkhayam/archtech/tree/main/social-app)** - Technical Implementation & UI Design
+
 
 ---
 
